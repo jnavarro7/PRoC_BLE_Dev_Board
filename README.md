@@ -2,4 +2,4 @@
 Bluetooth Low Energy custom Dev Board using a Cypress Semiconductor´s PRoC module  
 
 
-![alt tag](/PRoC Dev Board.jpg)
+![alt tag](/proc_dev_board.jpg)
